@@ -93,6 +93,8 @@ int main() {
 				insertt(val, 1);
 				if (!check(head)) {
 					printf("incorrect insertAtBeginning");
+					printf("incorrect insertAtBeginning");
+
 					return 0;
 				}
 			}
